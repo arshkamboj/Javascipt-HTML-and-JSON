@@ -1,24 +1,9 @@
 JASON AJAX and JQUERY
-(
-convert javascript objectsport 
 
-port 80- http 443-https
-ssh-422port
-ajax is fn in jqeuery.. ->arg=callback
-orginal fns completes succesfully then callback is executed.
+AJAX stands for Asynchronous JavaScript and XML.Using AJAX you access documents on a server without having to reload the page. AJAX handles communication that happens between a server and a client or a browser. Any file using AJAX, has to run on an actual server, not on your local hard drive. 
 
-)
-AJAX stands for Asynchronous JavaScript and XML.Using AJAX you access documents 
-on a server without having to reload the page.
-AJAX has communication that happens between a server and a client or a browser.
-Any file using AJAX, has to run on an actual server, not on your local hard drive. 
-
-In this project JSON file is imported into the JavaScript using AJAX. The file is 
-being brought into the text editor through an FTP client that has access to that server.
-
-data.json file having json object is placed on server.
-
-myscript.js -ajax code that reads the file(on server), put it in output variable and send it to the
-element
-
-index.html-just the headline tag and list of links
+In this project JSON file is imported into the JavaScript using AJAX. The file is being brought into the text editor through an FTP client that has access to that server.
+Project consist of following 3 files:
+1. data.json   : file having json object is placed on server.
+2. myscript.js : ajax code that reads the file(on server), put it in output variable and send it to the element
+3. index.html  : It contains the headline tag and list of links
