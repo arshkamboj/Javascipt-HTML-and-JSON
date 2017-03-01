@@ -1,8 +1,12 @@
 JASON AJAX and JQUERY
 
-AJAX stands for Asynchronous JavaScript and XML.Using AJAX you access documents on a server without having to reload the page. AJAX handles communication that happens between a server and a client or a browser. Any file using AJAX, has to run on an actual server, not on your local hard drive. 
+AJAX stands for Asynchronous JavaScript and XML.
+Using AJAX you access documents on a server without having to reload the page. 
+AJAX handles communication that happens between a server and a client or a browser. 
+Any file using AJAX, has to run on an actual server, not on your local hard drive. 
 
-In this project JSON file is imported into the JavaScript using AJAX. The file is being brought into the text editor through an FTP client that has access to that server.
+In this project JSON file is imported into the JavaScript using AJAX. 
+The file is being brought into the text editor through an FTP client that has access to that server.
 Project consist of following 3 files:
 1. data.json   : file having json object is placed on server.
 2. myscript.js : ajax code that reads the file(on server), put it in output variable and send it to the element
