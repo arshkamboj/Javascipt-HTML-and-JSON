@@ -1,0 +1,11 @@
+{
+"full_name" :"ray",
+"title"     :"staff author",
+"links"	    :[
+	{ "blog"	: "http://iviewcourse.com"},
+	{ "facebook"	: "http://www.facebook.com"},
+	{"twitter"	: "http://www.facebook.com"},
+	{"youtube"	: "http://www.facebook.com"},
+	{"gmail"	: "http://www.facebook.com"}
+	]
+}
