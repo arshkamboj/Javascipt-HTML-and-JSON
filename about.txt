@@ -1,4 +1,4 @@
-JASON AJAX and JQUERY
+JSON AJAX and JQUERY
 
 AJAX stands for Asynchronous JavaScript and XML.
 Using AJAX you access documents on a server without having to reload the page. 
